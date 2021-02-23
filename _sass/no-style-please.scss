@@ -1,0 +1,57 @@
+body {
+  color: black;
+  background-color: white;
+  font-family: monospace;
+  font-size: 1.2rem;
+  line-height: 1.2rem;
+  margin: 0;
+}
+
+.wrapper {
+  width: fit-content;
+  max-width: 800px;
+  margin: 2rem auto 0rem auto;
+  padding: 0 0rem;
+}
+
+article {
+  padding: 1rem 1.5rem;
+}
+
+h1 { 
+  font-weight: normal;
+  font-size: 1.5rem;
+  line-height: 1.5rem; 
+  text-align: center;
+}
+
+hr {
+  text-align: center;
+  border: 0;
+
+  &:before { content: '/////' }
+  &:after { content: attr(data-content) '/////' }
+}
+
+table, th, td {
+  border: thin solid black;
+  border-collapse: collapse;
+}
+
+// POST
+
+#slides {
+  display: inline-block; 
+  position: relative; 
+  width: 100%;
+}
+#dummy {
+  margin-top: 100%;
+}
+#element {
+  position: absolute; 
+  top: 0; 
+  bottom: 0; 
+  left: 0;
+  right: 0;
+}
