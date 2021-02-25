@@ -13,7 +13,9 @@ layout: default
   {{ content }}
 
   <p>
-    </br>
+    <br>
+    View in <a href="{{ page.slides }}/pub" target="_blank">Google Slides</a>.
+    <br>
     Join the conversation on:
     <ul>
       {% if page.insta %}
@@ -21,14 +23,28 @@ layout: default
       {% endif %}
       {% if page.reddit %}
       <li><a target="_blank" href="{{ page.reddit }}">Reddit</a></li>
-      {% endif %}        
+      {% endif %}
     </ul>
   </p>
+
 </article>
 
-<div id="slides">
-    <div id="dummy"></div>
-    <div id="element">
-        <iframe src="{{page.slides}}/embed" style="width: 100%; height: 100%" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-    </div>
+<div class="slide-imgs">
+{% assign posts = site.posts %}
+{%- for post in posts limit: include.limit -%}
+  {% if post.title == page.title %}
+    {% assign post_idx = posts.size | minus: forloop.index | plus: 1 %}
+    {% assign post_idx_padded = post_idx | prepend: '00' | slice: -3, 3 %}
+    {% assign slides_path = "/assets/slides/" | append: post_idx_padded %}
+
+    {% assign slide_images = site.static_files | where: "slide", true %}
+    {% for img in slide_images %}
+      {% if img.path contains slides_path %}
+        {% assign img_path = img.path | relative_url %}
+        <img class="slide-img" src="{{ img_path }}">
+      {% endif %}
+    {% endfor %}
+
+  {% endif %}
+{%- endfor -%}
 </div>
