@@ -15,7 +15,8 @@
 {%- for post in posts limit: include.limit -%}
 <div class="post-list-item">
   <p>
-    {{- post.date | date: site.theme_config.date_format -}}
+    {% assign post_idx = posts.size | minus: forloop.index | plus: 1 %}
+    {{ post_idx | prepend: '00' | slice: -3, 3 }} | {{ post.date | date: site.theme_config.date_format}}
     <br>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
   </p>
