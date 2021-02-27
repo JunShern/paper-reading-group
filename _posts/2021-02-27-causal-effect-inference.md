@@ -5,6 +5,7 @@ date: 2021-02-27 23:00:00 +0800
 slides: "https://docs.google.com/presentation/d/e/2PACX-1vSlTCl3Bxds81LoDTZYB3hW5lfyGqc3R7Kxlj3NLcoIhESCPSXJDSpuU8MtVoOPCfdv777HA_LzSNrc/"
 insta: "https://www.instagram.com/explore/tags/paperreadinggroup011/"
 reddit:
+twitter: "https://twitter.com/PaperReadingGrp/status/1365672573275570178"
 ---
 
 Louizos, Christos, et al. "Causal effect inference with deep latent-variable models." arXiv preprint arXiv:1705.08821 (2017).

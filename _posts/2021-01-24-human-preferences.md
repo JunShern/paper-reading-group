@@ -5,6 +5,7 @@ date: 2021-01-24 23:00:00 +0800
 slides: "https://docs.google.com/presentation/d/e/2PACX-1vRo0oEwrlvcQu-lLht7AqWTbyfOs4C_oiA7-iFDVtUlRd3wkcTXAW-_dwoNiP0K41IURU5xo85gkuP0/"
 insta: "https://www.instagram.com/explore/tags/paperreadinggroup006/"
 reddit:
+twitter: "https://twitter.com/PaperReadingGrp/status/1365671294574813189"
 ---
 
 Christiano, Paul, et al. "Deep reinforcement learning from human preferences." arXiv preprint arXiv:1706.03741 (2017).

@@ -5,6 +5,7 @@ date: 2021-01-17 23:00:00 +0800
 slides: "https://docs.google.com/presentation/d/e/2PACX-1vSuk20uVnUsqoYeuc3zrUU4Px3g6OcK_ZKuCDSgvpKdtnSXj3WiksfoLv9QszV4soourE80Pvo9jwUz/"
 insta: "https://www.instagram.com/explore/tags/paperreadinggroup005/"
 reddit:
+twitter: "https://twitter.com/PaperReadingGrp/status/1365671184356925448"
 ---
 
 Lopez-Paz, David, et al. "Discovering causal signals in images." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2017.

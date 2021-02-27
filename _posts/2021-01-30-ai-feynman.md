@@ -5,6 +5,7 @@ date: 2021-01-30 23:00:00 +0800
 slides: "https://docs.google.com/presentation/d/e/2PACX-1vRbEde-lnH190fymomDMidRCdHuPyoR3B2RREBtdL8887uktRES5ZGmnpSZJqenFFkhvv1CQox0EkWL/"
 insta: "https://www.instagram.com/explore/tags/paperreadinggroup007/"
 reddit:
+twitter: "https://twitter.com/PaperReadingGrp/status/1365671475781373959"
 ---
 
 Udrescu, Silviu-Marian, and Max Tegmark. "AI Feynman: A physics-inspired method for symbolic regression." Science Advances 6.16 (2020): eaay2631.

@@ -5,6 +5,7 @@ date: 2021-01-09 23:00:00 +0800
 slides: "https://docs.google.com/presentation/d/e/2PACX-1vRJE5pw-w5wa1C9zXNonAOMhnvt0bafzzov-XBXJsDrDmB9tNcnFLrj6-3ohZpLCaL_VDzDsfYqV5a9/"
 insta: "https://www.instagram.com/explore/tags/paperreadinggroup004/"
 reddit:
+twitter: "https://twitter.com/PaperReadingGrp/status/1365670910582169601"
 ---
 
 Amodei, Dario, et al. "Concrete problems in AI safety." arXiv preprint arXiv:1606.06565 (2016).

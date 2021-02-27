@@ -5,6 +5,7 @@ date: 2021-01-02 23:00:00 +0800
 slides: "https://docs.google.com/presentation/d/e/2PACX-1vRdVA9gpgC4S1qOopILgCYZ1vUnUgcg9-K3Un8pewFx4eW-nb2Z4QTH2ebPW0ZcN2KeIJskP0nnaLCs/"
 insta: "https://www.instagram.com/explore/tags/paperreadinggroup003/"
 reddit:
+twitter: "https://twitter.com/PaperReadingGrp/status/1365670782236385283"
 ---
 
 Ha, David, and Jürgen Schmidhuber. "World models." arXiv preprint arXiv:1803.10122 (2018).

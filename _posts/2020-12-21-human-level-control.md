@@ -5,6 +5,7 @@ date: 2020-12-21 23:00:00 +0800
 slides: "https://docs.google.com/presentation/d/e/2PACX-1vTSdVB2OeK00y-t_Iz3mR5kw4qZBk_ol8E09CZilUSVYEZXWg1i0oeOxRUMMmHrhk1Ida5ZFXxq_Buz/"
 insta: "https://www.instagram.com/explore/tags/paperreadinggroup001/"
 reddit:
+twitter: "https://twitter.com/PaperReadingGrp/status/1365669651867336709"
 ---
 
 Mnih, Volodymyr, et al. "Human-level control through deep reinforcement learning." nature 518.7540 (2015): 529-533.

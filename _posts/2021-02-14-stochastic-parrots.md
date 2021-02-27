@@ -5,6 +5,7 @@ date: 2021-02-14 23:00:00 +0800
 slides: "https://docs.google.com/presentation/d/e/2PACX-1vTj10Wx0sGL3Q4ppZzHoI-lg9VxqoVjfEwYTKFb-8d5HCsW2zPw41LxKHw9_IYSJjOZoYo6SCj3dHCH/"
 insta: "https://www.instagram.com/explore/tags/paperreadinggroup009/"
 reddit:
+twitter: "https://twitter.com/PaperReadingGrp/status/1365672155778740231"
 ---
 
 Bender, Emily M., et al. "On the dangers of stochastic parrots: Can language models be too big." Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency; Association for Computing Machinery: New York, NY, USA. 2021.

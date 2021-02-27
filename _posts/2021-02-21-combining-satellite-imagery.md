@@ -5,6 +5,7 @@ date: 2021-02-21 23:00:00 +0800
 slides: "https://docs.google.com/presentation/d/e/2PACX-1vRT7P-vgL_Pn5W69YTykVAM7loJ7LFCwVilyOrYzVChKY2ULAyggBC70t9048m1xWXTWWXAjzmJnke8/"
 insta: "https://www.instagram.com/explore/tags/paperreadinggroup010/"
 reddit:
+twitter: "https://twitter.com/PaperReadingGrp/status/1365672330140114950"
 ---
 
 Jean, Neal, et al. "Combining satellite imagery and machine learning to predict poverty." Science 353.6301 (2016): 790-794.

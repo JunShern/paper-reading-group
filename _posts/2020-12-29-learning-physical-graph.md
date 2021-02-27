@@ -5,6 +5,7 @@ date: 2020-12-29 23:00:00 +0800
 slides: "https://docs.google.com/presentation/d/e/2PACX-1vST0jP7TXaP_uHb2sXeqOOO7pGSZE4E8v10bitJJ-Is-iLXBh2eUiOWfATL750ra6NpAl1uynnNv2wt/"
 insta: "https://www.instagram.com/explore/tags/paperreadinggroup002/"
 reddit:
+twitter: "https://twitter.com/PaperReadingGrp/status/1365670585506832384"
 ---
 
 Bear, Daniel, et al. "Learning physical graph representations from visual scenes." Advances in Neural Information Processing Systems 33 (2020).
