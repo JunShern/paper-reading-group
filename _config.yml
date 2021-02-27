@@ -28,11 +28,11 @@ baseurl: "/paper-reading-group" # the subpath of your site, e.g. /blog
 url: "https://junshern.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
-
 # Build settings
 # theme: no-style-please
 plugins:
   - jekyll-feed
+future: true # Publish posts that are futured-dated
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
