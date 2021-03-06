@@ -4,8 +4,8 @@ title: "Feature visualization."
 date: 2021-03-06 23:00:00 +0800
 slides: "https://docs.google.com/presentation/d/e/2PACX-1vQWs6gAovya6Z4_h6OETix0XKw_h4gDuzoHoGDUacqW2KEcZSdOAIa1OGhT_t7swxQ3z-2LGNIVJ30s/"
 insta: "https://www.instagram.com/explore/tags/paperreadinggroup012/"
-reddit: 
-twitter: 
+reddit: "https://www.reddit.com/r/MachineLearning/comments/lyude9/d_paper_reading_group_012_feature_visualization/"
+twitter: "https://twitter.com/PaperReadingGrp/status/1368059328238743555"
 ---
 
 Olah, Chris, Alexander Mordvintsev, and Ludwig Schubert. "Feature visualization." Distill 2.11 (2017): e7.
