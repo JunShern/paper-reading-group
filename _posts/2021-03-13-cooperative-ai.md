@@ -4,8 +4,8 @@ title: "Open Problems in Cooperative AI."
 date: 2021-03-06 23:00:00 +0800
 slides: "https://docs.google.com/presentation/d/e/2PACX-1vQRhJHa0seuo-Sl345TuIt54TrvbEpwNewfFhHYoQHC6lBAFFfNdH-Vn7gM8wua82Vxg2Gr6pyWMme0/"
 insta: "https://www.instagram.com/explore/tags/paperreadinggroup013/"
-reddit: 
-twitter: 
+reddit: "https://www.reddit.com/r/MachineLearning/comments/m41ozd/d_paper_reading_group_013_open_problems_in/"
+twitter: "https://twitter.com/PaperReadingGrp/status/1370642647451242497"
 ---
 
 Dafoe, Allan, et al. "Open Problems in Cooperative AI." arXiv preprint arXiv:2012.08630 (2020).
