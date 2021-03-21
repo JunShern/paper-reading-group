@@ -4,8 +4,8 @@ title: "Accurate uncertainties for deep learning using calibrated regression."
 date: 2021-03-21 23:00:00 +0800
 slides: "https://docs.google.com/presentation/d/e/2PACX-1vS7-Gvz0nZ-c9ClNM9Vy65FeyZfheGoFEd7C5ZSCWvBA1rrwwodQ1MWRvG1KgIEZJ438h_AaGy4dnhz/"
 insta: "https://www.instagram.com/explore/tags/paperreadinggroup014/"
-reddit: 
-twitter: 
+reddit: "https://www.reddit.com/r/MachineLearning/comments/m9vspt/d_paper_reading_group_014_accurate_uncertainties/"
+twitter: "https://twitter.com/PaperReadingGrp/status/1373613504725315585"
 ---
 
 Kuleshov, Volodymyr, Nathan Fenner, and Stefano Ermon. "Accurate uncertainties for deep learning using calibrated regression." International Conference on Machine Learning. PMLR, 2018.
