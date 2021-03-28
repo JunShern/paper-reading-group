@@ -4,8 +4,8 @@ title: "DERAIL: Diagnostic Environments for Reward And Imitation Learning."
 date: 2021-03-28 23:00:00 +0800
 slides: "https://docs.google.com/presentation/d/e/2PACX-1vTMMmeMC1_EBrOdPYHFc3Yw_cJHFVtzYOUbAlvF9wtAmMdTLsIHF6OwQYZ4M8PvkkrL7jqB66iyZI3X/"
 insta: "https://www.instagram.com/explore/tags/paperreadinggroup015/"
-reddit: 
-twitter: 
+reddit: "https://www.reddit.com/r/MachineLearning/comments/mey2rh/d_paper_reading_group_015_derail_diagnostic/"
+twitter: "https://twitter.com/PaperReadingGrp/status/1376099931904086019"
 ---
 
 Freire, Pedro, et al. "DERAIL: Diagnostic Environments for Reward And Imitation Learning." arXiv preprint arXiv:2012.01365 (2020).
