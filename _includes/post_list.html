@@ -16,9 +16,26 @@
 <div class="post-list-item">
   <p>
     {% assign post_idx = posts.size | minus: forloop.index | plus: 1 %}
-    {{ post_idx | prepend: '00' | slice: -3, 3 }} | {{ post.date | date: site.theme_config.date_format}}
+    {% assign post_idx_padded = post_idx | prepend: '00' | slice: -3, 3 %}
+    {{ post_idx_padded }} | {{ post.date | date: site.theme_config.date_format}}
     <br>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+
+    {% assign slides_path = "/assets/slides/" | append: post_idx_padded %}
+    {% assign slide_images = site.static_files | where: "slide", true %}
+    <div>
+      <a href="{{ post.url | relative_url }}" class="slide-thumbnail-container">
+      {% for img in slide_images %}
+        {% if img.path contains slides_path %}
+        {% assign img_path = img.path | relative_url %}
+        
+          <img class="slide-thumbnail" src="{{ img_path }}">
+        
+        {% endif %}
+      {% endfor %}
+      </a>
+    </div>
+
   </p>
 </div>
 {%- endfor -%}
