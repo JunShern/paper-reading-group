@@ -38,7 +38,7 @@ layout: default
   {% if post.title == page.title %}
     {% assign post_idx = posts.size | minus: forloop.index | plus: 1 %}
     {% assign post_idx_padded = post_idx | prepend: '00' | slice: -3, 3 %}
-    {% assign slides_path = "/assets/slides/" | append: post_idx_padded %}
+    {% assign slides_path = "/assets/slides/full/" | append: post_idx_padded %}
 
     {% assign slide_images = site.static_files | where: "slide", true %}
     {% for img in slide_images %}

@@ -8,3 +8,9 @@ Serve locally:
 ```
 bundle exec jekyll serve
 ```
+
+Generate thumbnail images with `imagemagick`:
+```
+cp -r full/ thumb
+mogrify -resize 75X75 thumb/*/*.png
+```

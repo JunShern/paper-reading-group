@@ -21,7 +21,7 @@
     <br>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
 
-    {% assign slides_path = "/assets/slides/" | append: post_idx_padded %}
+    {% assign slides_path = "/assets/slides/thumb/" | append: post_idx_padded %}
     {% assign slide_images = site.static_files | where: "slide", true %}
     <div>
       <a href="{{ post.url | relative_url }}" class="slide-thumbnail-container">
