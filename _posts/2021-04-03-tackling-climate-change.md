@@ -4,8 +4,8 @@ title: "Tackling climate change with machine learning."
 date: 2021-04-03 23:00:00 +0800
 slides: "https://docs.google.com/presentation/d/e/2PACX-1vRTlBMrlVPUsDKzH7BMOoDVVng8wY5KZoWObKF5L0Eiy7GB84qLg7ogNKEfi3PV921Gw6kjyuRamSlz/"
 insta: "https://www.instagram.com/explore/tags/paperreadinggroup016/"
-reddit: 
-twitter: 
+reddit: "https://www.reddit.com/r/MachineLearning/comments/mj6i1c/d_paper_reading_group_016_tackling_climate_change/"
+twitter: "https://twitter.com/PaperReadingGrp/status/1378303342271586306"
 ---
 
 Rolnick, David, et al. "Tackling climate change with machine learning." arXiv preprint arXiv:1906.05433 (2019).
