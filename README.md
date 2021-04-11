@@ -10,7 +10,12 @@ bundle exec jekyll serve
 ```
 
 Generate thumbnail images with `imagemagick`:
-```
+```bash
+cd assets/slides/
+# Generate entire assets/slides/thumb folder from scratch
 cp -r full/ thumb
 mogrify -resize 75X75 thumb/*/*.png
+# Add only one folder
+cp -r full/017 thumb/
+mogrify -resize 75X75 thumb/017/*.png
 ```
