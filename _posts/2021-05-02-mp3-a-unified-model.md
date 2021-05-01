@@ -4,8 +4,8 @@ title: "MP3: A Unified Model to Map, Perceive, Predict and Plan."
 date: 2021-05-02 23:00:00 +0800
 slides: "https://docs.google.com/presentation/d/e/2PACX-1vSzao-A2_U6s0hxKRe8NgZPH4fgXmmmHzvM2oR-9RtcHWy2BCNB6GTYGFztW4BYOZKvj3XrAWgTIoaZ/"
 insta: "https://www.instagram.com/explore/tags/paperreadinggroup018/"
-reddit: ""
-twitter: ""
+reddit: "https://www.reddit.com/r/MachineLearning/comments/n2pda3/d_paper_reading_group_018_mp3_a_unified_model_to/"
+twitter: "https://twitter.com/PaperReadingGrp/status/1388576754684481538"
 ---
 
 <a href="https://arxiv.org/pdf/2101.06806.pdf" target="_blank">
