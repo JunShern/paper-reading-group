@@ -4,8 +4,8 @@ title: "Emergent Prosociality in Multi-Agent Games Through Gifting."
 date: 2021-05-30 23:00:00 +0800
 slides: "https://docs.google.com/presentation/d/e/2PACX-1vToNnokdh-grQ3zNLKAPNlpkW3fc0m6Lp2V2QmazVPO9VFoJuBtYu_0X_uT6GBGIU7gMLtWFsWauHvc/"
 insta: "https://www.instagram.com/explore/tags/paperreadinggroup019/"
-reddit: 
-twitter: 
+reddit: "https://www.reddit.com/r/MachineLearning/comments/no6t7l/d_paper_reading_group_019_emergent_prosociality/"
+twitter: "https://twitter.com/PaperReadingGrp/status/1398919401168986114"
 ---
 
 <a href="https://arxiv.org/abs/2105.06593" target="_blank">
